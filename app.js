@@ -113,7 +113,7 @@ function showModal() {
         setTimeout(function () {
             modal.remove();
             overlay.remove();
-            saying.innerHTML = "Hoping to meet you in person soon.";
+            saying.innerHTML = "You're the best!!";
             greet.innerHTML = "Happy Birthday Eunice!";
             bdayimage.src = imagegirl;
 
